@@ -98,11 +98,11 @@ r = None
 LANGUAGE='english' #'german' and 'english' supported
 
 LI_TYPE='ptc' #'ptc' #'google'#
-users_ptc= ['noonoonoonoodle']
-passwords_ptc = ['noodle123']
+users_ptc= ['###']
+passwords_ptc = ['###']
 
-users_google=['noonoonoodle@gmail.com']
-passwords_google=['noodle123']
+users_google=['###@gmail.com']
+passwords_google=['###']
 
 # initialize
 li_user=''
